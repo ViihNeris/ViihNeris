@@ -47,8 +47,6 @@
 
 #### Anseio ser uma Desenvolvedora Front-End. Comecei me interessando por HTML e CSS e isso me inspirou a escolher a área Front (<i>ou será que ela me escolheu?</i>). A partir do momento que decidi, estudei mais sobre a área e hoje estou me aprofundando em JavaScript para posteriormente poder seguir para TypeScript e React.
 
-<br>
-
 #### Me orgulho do caminho que estou trilhando e aos poucos vou apreciar ainda mais meu próprios esforços e agradecer pelo seus frutos 🙏🏻💻💜
 
 <br>
