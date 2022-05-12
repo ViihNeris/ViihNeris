@@ -2,15 +2,14 @@
 
 # <font color="#CFC1E3"> Viih Neris 👩🏻‍💻💜</font>
 
-### Olá! Tudo bem?
-### Me chamo Vitoria, mas pode me chamar de <i><b>Viih</b></i> (ou <i><b>Neris</b></i>)!
+#### Olá! Tudo bem?
+#### Me chamo Vitoria, mas pode me chamar de <i><b>Viih</b></i> (ou <i><b>Neris</b></i>)!
+
+#### Se você veio do LinkedIn, já sabe um pouco do meu encanto pela programação 💕 Resumidamente, não me vejo em outra área senão nesta! Se existe alma gêmea profissional, eu já encontrei a minha! 👩‍❤️‍👩
+
 <br>
 
-### Se você veio do LinkedIn, já sabe um pouco do meu encanto pela programação 💕 Resumidamente, não me vejo em outra área senão nesta! Se existe alma gêmea profissional, eu já encontrei a minha! 👩‍❤️‍👩
-
-<br>
-
-### Acompanhe abaixo minha trajetória nesse Universo Tecnológico! 🚀
+#### Acompanhe abaixo minha trajetória nesse Universo Tecnológico! 🚀
 <br>
 
 ##### Confira também meu LinkedIn e Instagram:
@@ -46,17 +45,17 @@
 
 # <font color =#E4D5FA> My Vision 👁‍🗨 </font>
 
-### Anseio ser uma Desenvolvedora Front-End. Comecei me interessando por HTML e CSS e isso me inspirou a escolher a área Front (<i>ou será que ela me escolheu?</i>). A partir do momento que decidi, estudei mais sobre a área e hoje estou me aprofundando em JavaScript para posteriormente poder seguir para TypeScript e React.
+#### Anseio ser uma Desenvolvedora Front-End. Comecei me interessando por HTML e CSS e isso me inspirou a escolher a área Front (<i>ou será que ela me escolheu?</i>). A partir do momento que decidi, estudei mais sobre a área e hoje estou me aprofundando em JavaScript para posteriormente poder seguir para TypeScript e React.
 
 <br>
 
-### Me orgulho do caminho que estou trilhando e aos poucos vou apreciar ainda mais meu próprios esforços e agradecer pelo seus frutos 🙏🏻💻💜
+#### Me orgulho do caminho que estou trilhando e aos poucos vou apreciar ainda mais meu próprios esforços e agradecer pelo seus frutos 🙏🏻💻💜
 
 <br>
 <br>
 
 <center>
 
-#### "<i>Uma linguagem não faz seu código ser bom, programadores bons fazem seu código ser bom".</i>
+##### "<i>Uma linguagem não faz seu código ser bom, programadores bons fazem seu código ser bom".</i>
 
 </center>
