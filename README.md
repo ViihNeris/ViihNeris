@@ -6,8 +6,7 @@
 ### Me chamo Vitoria, mas pode me chamar de <i><b>Viih</b></i> (ou <i><b>Neris</b></i>)!
 <br>
 
-### Se você veio do LinkedIn, já sabe um pouco do meu encanto pela programação 💕 
-### Resumidamente, não me vejo em outra área senão nesta! Se existe alma gêmea profissional, eu já encontrei a minha! 👩‍❤️‍👩
+### Se você veio do LinkedIn, já sabe um pouco do meu encanto pela programação 💕 Resumidamente, não me vejo em outra área senão nesta! Se existe alma gêmea profissional, eu já encontrei a minha! 👩‍❤️‍👩
 
 <br>
 
@@ -29,7 +28,7 @@
 <br>
 
 
-# <font color =#E4D5FA> My Tecnologies 💻 </font>
+# <font color =#E4D5FA> My Technologies 💻 </font>
 
 <div>
     <img align = "center" alt = "JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
