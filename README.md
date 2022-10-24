@@ -45,9 +45,11 @@
 
 # <font color =#E4D5FA> My Vision 👁‍🗨 </font>
 
-#### Anseio ser uma Desenvolvedora Front-End. Comecei me interessando por HTML e CSS e isso me inspirou a escolher a área Front (<i>ou será que ela me escolheu?</i>). A partir do momento que decidi, estudei mais sobre a área e hoje estou me aprofundando em JavaScript para posteriormente poder seguir para TypeScript e React.
+Anseio ser uma Desenvolvedora Front-End/Desenvolvedora Full-Stack. Comecei me interessando por HTML e CSS e isso me inspirou a escolher a área de TI para minha vida (<i>ou será que ela me escolheu?</i>). A partir do momento que decidi, estudei mais sobre a área e hoje estou me aprofundando em JavaScript para posteriormente poder seguir para TypeScript e React.
 
-#### Me orgulho do caminho que estou trilhando e aos poucos vou apreciar ainda mais meu próprios esforços e agradecer pelo seus frutos 🙏🏻💻💜
+Atualmente sou <b><i>Assoc, Full-Stack Dev</i></b> na <b><i>Avanade</i></b>! 🧡🚀👩🏻‍💻
+
+Me orgulho do caminho que estou trilhando e aos poucos vou apreciar ainda mais meu próprios esforços e agradecer pelo seus frutos 🙏🏻💻💜
 
 <br>
 <br>
