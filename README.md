@@ -43,7 +43,7 @@
 <br>
 
 
-# <font color =#E4D5FA> My Vision 👁‍🗨 </font>
+# <font color =#E4D5FA> My Vision, Aspirations & Development 👁‍🗨🏆👩🏻‍💻 </font>
 
 Anseio ser uma Desenvolvedora Front-End/Desenvolvedora Full-Stack. Comecei me interessando por HTML e CSS e isso me inspirou a escolher a área de TI para minha vida (<i>ou será que ela me escolheu?</i>). A partir do momento que decidi, estudei mais sobre a área e hoje estou me aprofundando em JavaScript para posteriormente poder seguir para TypeScript e React.
 
