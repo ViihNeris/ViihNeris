@@ -54,9 +54,14 @@ Atualmente sou <b><i>Assoc, Full-Stack Dev</i></b> na <b><i>Avanade</i></b>! �
 
 Me orgulho do caminho que estou trilhando e aos poucos vou apreciar ainda mais meu próprios esforços e agradecer pelo seus frutos 🙏🏻💻💜
 
-<br>
-<br>
-
+![snake gif](https://github.com/ViihNeris/ViihNeris/blob/output/github-contribution-grid-snake.svg)
 
 ##### "<i>Uma linguagem não faz seu código ser bom, programadores bons fazem seu código ser bom".</i>
+
+<div align="center">
+  <br><p><b>Visitantes</b></p>  
+  <p align="center"><img align="center" src="https://profile-counter.glitch.me/{ViihNeris}/count.svg" /></p> 
+</div>
+  
+  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3E2F52&height=160&section=footer&text=Sempre+há+novidades.+Volte+Sempre!+👩🏻‍💻💜&fontSize=20&fontColor=fff&animation=twinkling&fontAlignY=80"/>
 
