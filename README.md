@@ -1,4 +1,8 @@
-<center>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3E2F52&height=160&section=header&text=Welcome!&fontSize=32&fontColor=fff&animation=twinkling&fontAlignY=35"/> 
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=B089F5&size=35&center=true&vCenter=true&width=1000&lines=Hello!+I'm+Viih!;I'm+a+Full-Stack+Developer+👩🏻‍💻;Conheça+meus+repositórios!+💻💜)](https://git.io/typing-svg)
+
+
 
 # <font color="#CFC1E3"> Viih Neris 👩🏻‍💻💜</font>
 
@@ -20,7 +24,6 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ViihNeris&show_icons=true&theme=synthwave)
 
-</center>
 
 <br>
 <br>
@@ -54,8 +57,6 @@ Me orgulho do caminho que estou trilhando e aos poucos vou apreciar ainda mais m
 <br>
 <br>
 
-<center>
 
 ##### "<i>Uma linguagem não faz seu código ser bom, programadores bons fazem seu código ser bom".</i>
 
-</center>
