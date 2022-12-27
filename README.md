@@ -11,24 +11,17 @@
 
 #### Se você veio do LinkedIn, já sabe um pouco do meu encanto pela programação 💕 Resumidamente, não me vejo em outra área senão nesta! Se existe alma gêmea profissional, eu já encontrei a minha! 👩‍❤️‍👩
 
-<br>
-
 #### Acompanhe abaixo minha trajetória nesse Universo Tecnológico! 🚀
 <br>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ViihNeris&show_icons=true&theme=synthwave)
+
 
 ##### Confira também meu LinkedIn e Instagram:
 
 [![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vitorianeris/) [![Blog](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/viih.neris_/)
 
 <br>
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ViihNeris&show_icons=true&theme=synthwave)
-
-
-<br>
-<br>
-<br>
-
 
 # <font color =#E4D5FA> My Technologies 💻 </font>
 
