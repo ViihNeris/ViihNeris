@@ -6,6 +6,8 @@
 
 # <font color="#CFC1E3"> Viih Neris 👩🏻‍💻💜</font>
 
+<img src="https://github.com/julianazanelatto/image_data_science/blob/main/data_science.png" min-width="300px" max-width="300px" width="300px" align="right" alt="Computador">
+
 #### Olá! Tudo bem?
 #### Me chamo Vitoria, mas pode me chamar de <i><b>Viih</b></i> (ou <i><b>Neris</b></i>)!
 
