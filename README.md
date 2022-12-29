@@ -6,7 +6,7 @@
 
 # <font color="#CFC1E3"> Viih Neris 👩🏻‍💻💜</font>
 
-<img src="https://github.com/ViihNeris/ViihNeris/blob/main/data_science.png" min-width="280px" max-width="280px" width="280px" align="right" alt="Computer">
+<img src="https://github.com/ViihNeris/ViihNeris/blob/main/images/data_science.png" min-width="280px" max-width="280px" width="280px" align="right" alt="Computer">
 
 #### Olá! Tudo bem?
 #### Me chamo Vitoria, mas pode me chamar de <i><b>Viih</b></i> (ou <i><b>Neris</b></i>)!
@@ -45,7 +45,7 @@
 
 Anseio ser uma Desenvolvedora Front-End/Desenvolvedora Full-Stack. Comecei me interessando por HTML e CSS e isso me inspirou a escolher a área de TI para minha vida (<i>ou será que ela me escolheu?</i>). A partir do momento que decidi, estudei mais sobre a área e me aprofundei em JavaScript para posteriormente seguir para TypeScript e React. Hoje estou ampliando ainda mais meus conhecimentos em Front e também em Back!
 
-Atualmente sou <b><i>Assoc, Full-Stack Dev</i></b> na <b><i>Avanade</i></b>! 🧡🚀👩🏻‍💻
+Atualmente sou <b><i>Assoc, Full-Stack Dev</i></b> na <img src="https://github.com/ViihNeris/ViihNeris/blob/main/images/AvanadeLogo.png" min-width="50px" max-width="100px" width="100px" align="center" alt="logo da empresa AVANADE"> 🧡🚀👩🏻‍💻
 
 Me orgulho do caminho que estou trilhando e aos poucos vou apreciar ainda mais meu próprios esforços e agradecer pelo seus frutos 🙏🏻💻💜
 
