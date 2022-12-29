@@ -6,7 +6,7 @@
 
 # <font color="#CFC1E3"> Viih Neris 👩🏻‍💻💜</font>
 
-<img src="https://github.com/ViihNeris/ViihNeris/blob/main/images/data_science.png" min-width="280px" max-width="280px" width="280px" align="right" alt="Computer">
+<img src="https://github.com/ViihNeris/ViihNeris/blob/main/images/developer_girl.png" min-width="260px" max-width="260px" width="260px" align="right" alt="Computer">
 
 #### Olá! Tudo bem?
 #### Me chamo Vitoria, mas pode me chamar de <i><b>Viih</b></i> (ou <i><b>Neris</b></i>)!
