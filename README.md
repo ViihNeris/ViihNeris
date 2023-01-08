@@ -51,7 +51,7 @@ Me orgulho do caminho que estou trilhando e aos poucos vou apreciar ainda mais m
 
 ![snake gif](https://github.com/ViihNeris/ViihNeris/blob/output/github-contribution-grid-snake.svg)
 
-##### "<i>Uma linguagem não faz seu código ser bom, programadores bons fazem seu código ser bom".</i>
+##### "<i>Uma linguagem não faz seu código ser bom. Programadores bons fazem seu código ser bom".</i> 👩🏻‍💻
 
 <div align="center">
   <br><p><b>Visitantes</b></p>  
