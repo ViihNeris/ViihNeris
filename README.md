@@ -45,7 +45,7 @@
 
 Anseio ser uma Desenvolvedora Front-End/Desenvolvedora Full-Stack. Comecei me interessando por HTML e CSS e isso me inspirou a escolher a área de TI para minha vida (<i>ou será que ela me escolheu?</i>). A partir do momento que decidi, estudei mais sobre a área e me aprofundei em JavaScript para posteriormente seguir para TypeScript e React. Hoje estou ampliando ainda mais meus conhecimentos em Front e também em Back!
 
-Atualmente sou <b><i>Sr Assoc, Full-Stack Dev</i></b> na <img src="https://github.com/ViihNeris/ViihNeris/blob/main/images/AvanadeLogo.png" min-width="50px" max-width="100px" width="100px" align="center" alt="logo da empresa AVANADE"> 🧡🚀👩🏻‍💻
+Atualmente sou <b><i>Sr Assoc, Full-Stack Dev (Jr. Analyst)</i></b> na <img src="https://github.com/ViihNeris/ViihNeris/blob/main/images/AvanadeLogo.png" min-width="50px" max-width="100px" width="100px" align="center" alt="logo da empresa AVANADE"> 🧡🚀👩🏻‍💻
 
 Me orgulho do caminho que estou trilhando e aos poucos vou apreciar ainda mais meu próprios esforços e agradecer pelo seus frutos 🙏🏻💻💜
 
