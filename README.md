@@ -37,22 +37,13 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ViihNeris&layout=compact&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 
-<br>
-<br>
-
-
-# <font color =#E4D5FA> My Vision, Aspirations & Development 👁‍🗨🏆👩🏻‍💻 </font>
-
 Atualmente sou <b><i>Anls, Full-Stack Dev (Mid-level)</i></b> na <img src="https://github.com/ViihNeris/ViihNeris/blob/main/images/AvanadeLogo.png" min-width="50px" max-width="100px" width="100px" align="center" alt="logo da empresa AVANADE"> 🧡🚀👩🏻‍💻
-
-![snake gif](https://github.com/ViihNeris/ViihNeris/blob/output/github-contribution-grid-snake.svg)
-
-##### "<i>Uma linguagem não faz seu código ser bom. Programadores bons fazem seu código ser bom".</i> 👩🏻‍💻
 
 <div align="center">
   <br><p><b>Visitantes</b></p>  
   <p align="center"><img align="center" src="https://profile-counter.glitch.me/{ViihNeris}/count.svg" /></p> 
 </div>
-  
-  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3E2F52&height=160&section=footer&text=Sempre+há+novidades.+Volte+Sempre!+👩🏻‍💻💜&fontSize=20&fontColor=fff&animation=twinkling&fontAlignY=80"/>
+<br>
 
+  ##### "<i>Uma linguagem não faz seu código ser bom. Programadores bons fazem seu código ser bom".</i> 👩🏻‍💻
+  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3E2F52&height=160&section=footer&text=Sempre+há+novidades.+Volte+Sempre!+👩🏻‍💻💜&fontSize=20&fontColor=fff&animation=twinkling&fontAlignY=80"/>
