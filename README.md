@@ -46,4 +46,4 @@ Atualmente sou <b><i>Anls, Full-Stack Dev (Mid-level)</i></b> na <img src="https
 <br>
 
   ##### "<i>Uma linguagem não faz seu código ser bom. Programadores bons fazem seu código ser bom".</i> 👩🏻‍💻
-  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3E2F52&height=160&section=footer&text=Sempre+há+novidades.+Volte+Sempre!+👩🏻‍💻💜&fontSize=20&fontColor=fff&animation=twinkling&fontAlignY=80"/>
+  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3E2F52&height=160&section=footer&text=Volte+Sempre!+👩🏻‍💻💜&fontSize=20&fontColor=fff&animation=twinkling&fontAlignY=80"/>
